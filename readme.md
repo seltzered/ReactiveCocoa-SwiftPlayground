@@ -7,8 +7,9 @@ This uses ReactiveCocoa 4.x installed via CocoaPods - you shouldn't need cocoapo
 ## Usage Directions
 
 1. Open the workspace file (req'd due to use of cocoapods)
-2. Within the xcode project, open the swift playground files.
-3. Run and play!
+2. For the first run, Build the project once (cmd+b) - this because the playground files have the project's build output as a dependency in order to reference the ReactiveCocoa framework.  
+3. Within the xcode project, open the swift playground files. If you see an error on the 'import ReactiveCocoa' line, try closing/reopening the playground file (and make sure you followed step 2).
+4. Run and play!
 
 ##
 
