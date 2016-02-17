@@ -2,6 +2,7 @@
 
 import Cocoa
 import ReactiveCocoa
+import Result
 
 func printSection(sectionName :String)
 {

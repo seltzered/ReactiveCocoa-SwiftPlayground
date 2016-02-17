@@ -10,6 +10,7 @@
 
 import Cocoa
 import ReactiveCocoa
+import Result
 
 func sectionStr(sectionName :String) -> String
 {

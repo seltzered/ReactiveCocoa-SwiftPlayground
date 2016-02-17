@@ -6,8 +6,9 @@
 //  Copyright © 2016 Vivek Gani. All rights reserved.
 //
 
-import ReactiveCocoa
 import Cocoa
+import ReactiveCocoa
+import Result
 
 @NSApplicationMain
 class AppDelegate: NSObject, NSApplicationDelegate {
