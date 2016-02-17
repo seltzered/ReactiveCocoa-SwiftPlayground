@@ -4,6 +4,6 @@
 use_frameworks!
 
 target 'ReactiveCocoa-SwiftPlayground' do
-    pod 'ReactiveCocoa', '~> 4.x'
+    pod 'ReactiveCocoa', '~> 4.0.1'
 end
 
