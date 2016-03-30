@@ -1,6 +1,7 @@
 # ReactiveCocoa - Swift Playgrounds 
 
-This is a walkthrough of ReactiveCocoa 4.x using Swift Playgrounds.
+This is a walkthrough of ReactiveCocoa 4.x using Swift Playgrounds. 
+It was created for giving a talk on RAC at Seattle XCoders in Feb 2016: https://vimeo.com/158447577
 
 This uses ReactiveCocoa 4.x installed via CocoaPods - you shouldn't need cocoapods installed to start running the playgrounds.  If you need to update the ReactiveCocoa library, you'll need CocoaPods 1.0.0.beta.2 or higher to do this.
 
